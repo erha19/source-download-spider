@@ -1,0 +1,5 @@
+.vscode
+data.json
+images/
+package-lock.json
+node_modules
